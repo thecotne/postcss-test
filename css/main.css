@@ -1,0 +1,27 @@
+.element:container(width >= 100px) {
+    /* Styles for .element if its container is at least 100px wide */
+    color: red;
+}
+.element:container(height > 100px) {
+    /* Styles for .element if its container is between 100px and 200px high */
+    color: green;
+}
+.element:container(text-align = right) {
+    /* Styles for .element if its container has a right text-align */
+    color: blue;
+}
+
+
+.heading {
+    margin: 20px;
+    padding: calc(@margin / 2);
+
+    .cotne {
+		color: red;
+    }
+
+
+	@media screen {
+		color: red;
+	}
+}

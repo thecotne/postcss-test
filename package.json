@@ -1,0 +1,19 @@
+{
+  "name": "postcss-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cq-prolyfill": "^0.3.2",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.0",
+    "postcss-calc-function": "^1.1.0",
+    "postcss-cssnext": "^2.5.2",
+    "precss": "^1.4.0"
+  }
+}
