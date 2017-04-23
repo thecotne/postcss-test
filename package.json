@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cq-prolyfill": "^0.3.2",
+    "cq-prolyfill": "^0.3.3",
     "gulp": "^3.9.1",
     "gulp-postcss": "^6.1.0",
     "postcss-calc-function": "^1.1.0",
